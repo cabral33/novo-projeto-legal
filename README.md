@@ -1,2 +1,4 @@
 # novo-projeto-legal
-Testes
+Testes de APP sobre Arquitetura de android e Aplicação de Activity
+
+
