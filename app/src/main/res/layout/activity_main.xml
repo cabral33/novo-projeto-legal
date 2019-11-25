@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Cod. Combustivel" />
+        android:text="Cod. Combustivel"/>
 
     <LinearLayout
         android:layout_width="wrap_content"
