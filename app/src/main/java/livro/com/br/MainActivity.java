@@ -24,7 +24,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        etPeso = (EditText) findViewById(R.id.etPeso);
+        //etPeso = (EditText) findViewById(R.id.etPeso);
 
     }
 }
